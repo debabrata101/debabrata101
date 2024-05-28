@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debabrata Das</h1>
 <h3 align="center">A passionate frontend & Web developer</h3>
-<img align="right" alt="coding" width"800" src="https://github.com/debabrata101/debabrata101/blob/main/ec1326c5-26a4-4cc9-a8fc-eecf8ad84f68.gif"/>
+<img align="right" alt="coding" width"800" src="https://lottie.host/9028692d-e271-4d50-9667-61c9469528c4/hbvMJ8fOTA.json"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debabrata101&label=Profile%20views&color=0e75b6&style=flat" alt="debabrata101" /> </p>
 
 - 📫 How to reach me **debabratacmt@gmail.com**
